@@ -1,0 +1,15 @@
+{
+  "name": "explore-board",
+  "version": "1.0.0",
+  "description": "A review board for design explorations made by AI agents on separate branches",
+  "type": "module",
+  "bin": {
+    "explore-board": "cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+}

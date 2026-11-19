@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "explore-board build",
+    "instructions": "explore-board instructions"
+  },
+  "dependencies": {
+    "explore-board": "github:karlbot/explore-board"
+  }
+}

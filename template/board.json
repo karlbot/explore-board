@@ -1,0 +1,8 @@
+{
+  "title": "My Project explorations",
+  "owner": "Your name, as the agents should call you",
+  "repo": "https://github.com/you/my-project",
+  "board": "https://gallery-my-project.example.workers.dev",
+  "production": "https://my-project.example.workers.dev",
+  "preview": "https://{branch}-my-project.example.workers.dev"
+}
